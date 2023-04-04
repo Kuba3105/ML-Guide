@@ -4,6 +4,14 @@ This my recommended study guide to get started with Machine Learning.
 
 Watch the video on [YouTube](https://youtu.be/wtolixa9XTg).
 
+
+
+
+use kaggle
+
+
+
+
 ## 1. Math
 
 Learn some math basics! Focus only on these topics, then come back later in case you need to learn more.
@@ -24,6 +32,7 @@ Learn some math basics! Focus only on these topics, then come back later in case
 * NumPy:  [1h NumPy Crash Course](https://youtu.be/9JUAPgtkKpI)
 * Pandas: [1h Pandas Crash Course](https://youtu.be/vmEHCJofslg)
 * Matplotlib: [1h Matplotlib Crash Course Course](https://youtu.be/3Xc3CA655Y4)
+* sckit learn
 
 (Scikit-Learn and TensorFlow are taught in step 4. PyTorch is optional, maybe in step 7)
 
