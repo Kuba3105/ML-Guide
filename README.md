@@ -6,7 +6,7 @@ Watch the video on [YouTube](https://youtu.be/wtolixa9XTg).
 
 
 
-
+and learn guthub and gi
 use kaggle
 
 
